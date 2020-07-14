@@ -2,7 +2,25 @@
 
 <center>—— 清华深圳Open FIESTA夏令营工坊</center>
 
-[toc]
+#### Table of Contents
+
+* [解决的问题](#解决的问题)
+* [解决方案](#解决方案)
+   * [硬件设计](#硬件设计)
+      * [设计草图](#设计草图)
+      * [整体框架](#整体框架)
+      * [车内布局](#车内布局)
+      * [渲染图](#渲染图)
+   * [软件设计](#软件设计)
+      * [交互流程图](#交互流程图)
+      * [进入界面](#进入界面)
+      * [路线规划与人数统计](#路线规划与人数统计)
+      * [预约和历史记录](#预约和历史记录)
+   * [算法设计](#算法设计)
+      * [技术架构](#技术架构)
+      * [算法实现](#算法实现)
+* [目录结构](#目录结构)
+* [团队介绍](#团队介绍)
 
 ------
 
@@ -20,19 +38,19 @@
 
 #### 设计草图
 
-<img src="README.assets/image-20200714133011005.png" alt="image-20200714133011005" width="67%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-bb2f012dae6820a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714133011005" width="67%;" />
 
 #### 整体框架
 
-<img src="README.assets/image-20200714133209248.png" alt="image-20200714133209248" width="67%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-f51f9e4e2ad94a86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714133209248" width="67%;" />
 
 #### 车内布局
 
-<img src="README.assets/image-20200714133237224.png" alt="image-20200714133237224" width="50%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-85fbffd0fa1f6542.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714133237224" width="50%;" />
 
 #### 渲染图
 
-<img src="README.assets/image-20200714133421838.png" alt="image-20200714133421838" width="70%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-6724ef8f30359c54.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714133421838" width="70%;" />
 
 <br/>
 
@@ -40,19 +58,19 @@
 
 #### 交互流程图
 
-<img src="README.assets/app-flow-chart.png" alt="app-flow-chart" width="50%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-ecf9e04aa8ab1025.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="app-flow-chart" width="50%;" />
 
 #### 进入界面
 
-<img src="README.assets/image-20200714132723058.png" alt="image-20200714132723058" width="67%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-e263edc52fe40605.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714132723058" width="67%;" />
 
 #### 路线规划与人数统计
 
-<img src="README.assets/image-20200714132731090.png" alt="image-20200714132731090" width="67%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-e122dd6849173b9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714132731090" width="67%;" />
 
 #### 预约和历史记录
 
-<img src="README.assets/image-20200714132738261.png" alt="image-20200714132738261" width="67%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-8f8367de8000467c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714132738261" width="67%;" />
 
 <br/>
 
@@ -60,7 +78,7 @@
 
 #### 技术架构
 
-<img src="README.assets/image-20200714133833628.png" alt="image-20200714133833628" width="67%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-aaaaad60e64fdb34.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714133833628" width="67%;" />
 
 #### 算法实现
 
@@ -118,9 +136,9 @@
 
 |  姓名  |     学校     |       专业       |                             照片                             |
 | :----: | :----------: | :--------------: | :----------------------------------------------------------: |
-|  张喆  |   同济大学   |     软件工程     | <img src="README.assets/image-20200714134436095.png" alt="image-20200714134436095" style="zoom:50%;" /> |
-| 孙菁玮 | 国际关系学院 |  国际经济与贸易  | <img src="README.assets/image-20200714134558486.png" alt="image-20200714134558486" style="zoom:50%;" /> |
-| 程宇婷 | 华南理工大学 |     工业设计     | <img src="README.assets/image-20200714134611953.png" alt="image-20200714134611953" style="zoom:50%;" /> |
-| 吴若兰 |   同济大学   | 计算机科学与技术 | <img src="README.assets/image-20200714134616408.png" alt="image-20200714134616408" style="zoom:50%;" /> |
-| 程丽云 |   山东大学   | 计算机科学与技术 | <img src="README.assets/image-20200714134606208.png" alt="image-20200714134606208" style="zoom:50%;" /> |
+|  张喆  |   同济大学   |     软件工程     | <img src="https://upload-images.jianshu.io/upload_images/12014150-de9297dc4bf4f315.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134436095" style="zoom:50%;" /> |
+| 孙菁玮 | 国际关系学院 |  国际经济与贸易  | <img src="https://upload-images.jianshu.io/upload_images/12014150-61ad94743631075d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134558486" style="zoom:50%;" /> |
+| 程宇婷 | 华南理工大学 |     工业设计     | <img src="https://upload-images.jianshu.io/upload_images/12014150-64cd4876c7d53ca4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134611953" style="zoom:50%;" /> |
+| 吴若兰 |   同济大学   | 计算机科学与技术 | <img src="https://upload-images.jianshu.io/upload_images/12014150-8a6be58c8ca9f2fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134616408" style="zoom:50%;" /> |
+| 程丽云 |   山东大学   | 计算机科学与技术 | <img src="https://upload-images.jianshu.io/upload_images/12014150-19cf9c29c1464a90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134606208" style="zoom:50%;" /> |
 
