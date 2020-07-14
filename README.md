@@ -136,9 +136,9 @@
 
 |  姓名  |     学校     |       专业       |                             照片                             |
 | :----: | :----------: | :--------------: | :----------------------------------------------------------: |
-|  张喆  |   同济大学   |     软件工程     | <img src="https://upload-images.jianshu.io/upload_images/12014150-de9297dc4bf4f315.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134436095" style="zoom:50%;" /> |
-| 孙菁玮 | 国际关系学院 |  国际经济与贸易  | <img src="https://upload-images.jianshu.io/upload_images/12014150-61ad94743631075d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134558486" style="zoom:50%;" /> |
-| 程宇婷 | 华南理工大学 |     工业设计     | <img src="https://upload-images.jianshu.io/upload_images/12014150-64cd4876c7d53ca4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134611953" style="zoom:50%;" /> |
-| 吴若兰 |   同济大学   | 计算机科学与技术 | <img src="https://upload-images.jianshu.io/upload_images/12014150-8a6be58c8ca9f2fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134616408" style="zoom:50%;" /> |
-| 程丽云 |   山东大学   | 计算机科学与技术 | <img src="https://upload-images.jianshu.io/upload_images/12014150-19cf9c29c1464a90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134606208" style="zoom:50%;" /> |
+|  张喆  |   同济大学   |     软件工程     | <img src="https://upload-images.jianshu.io/upload_images/12014150-de9297dc4bf4f315.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134436095" width="50%;" /> |
+| 孙菁玮 | 国际关系学院 |  国际经济与贸易  | <img src="https://upload-images.jianshu.io/upload_images/12014150-61ad94743631075d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134558486" width="50%;" /> |
+| 程宇婷 | 华南理工大学 |     工业设计     | <img src="https://upload-images.jianshu.io/upload_images/12014150-64cd4876c7d53ca4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134611953" width="50%;" /> |
+| 吴若兰 |   同济大学   | 计算机科学与技术 | <img src="https://upload-images.jianshu.io/upload_images/12014150-8a6be58c8ca9f2fc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134616408" width="50%;" /> |
+| 程丽云 |   山东大学   | 计算机科学与技术 | <img src="https://upload-images.jianshu.io/upload_images/12014150-19cf9c29c1464a90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200714134606208" width="50%;" /> |
 
