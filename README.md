@@ -2,8 +2,6 @@
 
 <center>—— 清华深圳Open FIESTA夏令营工坊</center>
 
-#### Table of Contents
-
 * [解决的问题](#解决的问题)
 * [解决方案](#解决方案)
    * [硬件设计](#硬件设计)
